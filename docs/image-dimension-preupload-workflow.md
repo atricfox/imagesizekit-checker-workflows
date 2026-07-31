@@ -52,3 +52,11 @@ https://imagesizekit.com/image-dimension-checker/
 The canonical ImageSizeKit URL for the complete workflow guide is:
 
 https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
+
+## Pages And Workflow References
+
+- Public Pages landing: https://www.flynnblog.com/imagesizekit-checker-workflows/
+- Pages sitemap: https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
+- Pages llms.txt: https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
+- Complementary banner crop workflow: https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.1
