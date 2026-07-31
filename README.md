@@ -41,6 +41,7 @@ Canonical note: use `https://imagesizekit.com/image-size-checker/` for the gener
 | Social image pre-upload workflow | https://imagesizekit.com/check-social-media-image-size-before-upload/ | Step-by-step guide for checking social image dimensions, ratio, file size, crop risk, Open Graph routing, and publish readiness. |
 | Banner crop pre-upload workflow | https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ | Step-by-step guide for checking banner dimensions and crop risk before upload. |
 | Open Graph preview workflow | https://imagesizekit.com/open-graph-preview-checker/ | Step-by-step workflow for checking website share-card images before debugging metadata or social cache issues. |
+| YouTube thumbnail size conversion workflow | https://imagesizekit.com/youtube-thumbnail-size-converter/ | Step-by-step workflow for converting YouTube thumbnail exports to a clean 16:9 size. |
 
 ## Core Workflows
 
@@ -51,6 +52,7 @@ Canonical note: use `https://imagesizekit.com/image-size-checker/` for the gener
 | Check banner size and crop risk | https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ | Use this when a wide header, cover, channel art, or profile banner might crop text or logos after upload. |
 | Check a mixed social media image | https://imagesizekit.com/social-media-image-checker/ | Use this when one image might become an Instagram post, LinkedIn banner, Facebook cover, Open Graph image, Etsy listing, Shopify product image, or marketplace graphic. |
 | Check a website share preview image | https://imagesizekit.com/open-graph-preview-checker/ | Use this before adding or refreshing `og:image` metadata for a page preview. |
+| Convert a YouTube thumbnail size | https://imagesizekit.com/youtube-thumbnail-size-converter/ | Use this when a thumbnail needs a 16:9 export size such as 1280 x 720, 1920 x 1080, or 3840 x 2160. |
 
 ## Workflow Status Reference
 
@@ -82,6 +84,7 @@ Useful routes:
 
 - Full workflow: https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
 - Local checker: https://imagesizekit.com/image-size-checker/
+- YouTube thumbnail size converter: https://imagesizekit.com/youtube-thumbnail-size-converter/
 - YouTube image sizes hub: https://imagesizekit.com/youtube-image-sizes/
 - Social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Social image sizes hub: https://imagesizekit.com/social-media-image-sizes/
@@ -165,6 +168,24 @@ Useful routes:
 - YouTube banner template: https://imagesizekit.com/youtube-banner-template/
 - LinkedIn banner size: https://imagesizekit.com/linkedin-banner-size/
 - Facebook cover photo size: https://imagesizekit.com/facebook-cover-photo-size/
+
+## YouTube Thumbnail Size Conversion Workflow
+
+A YouTube thumbnail can be visually ready but still need a clean 16:9 export size before upload.
+
+Check:
+
+1. Whether the source is already 16:9.
+2. Whether the target should be 1280 x 720, 1920 x 1080, 3840 x 2160, or another clean 16:9 pair.
+3. Whether the exported file still passes the pre-upload thumbnail check.
+
+Useful routes:
+
+- Full workflow: https://www.flynnblog.com/imagesizekit-checker-workflows/youtube-thumbnail-size-conversion-workflow.html
+- YouTube thumbnail size converter: https://imagesizekit.com/youtube-thumbnail-size-converter/
+- YouTube thumbnail size guide: https://imagesizekit.com/youtube-thumbnail-size/
+- Thumbnail pre-upload checklist: https://imagesizekit.com/check-youtube-thumbnail-size-before-uploading/
+- Image size checker: https://imagesizekit.com/image-size-checker/
 
 ## Independence And Privacy
 

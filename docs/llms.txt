@@ -16,6 +16,7 @@ Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic
 - https://imagesizekit.com/banner-size-checker/ - Browser-local checker for wide banners, covers, headers, channel art, and crop-prone image assets.
 - https://imagesizekit.com/social-media-image-checker/ - Browser-local checker for routing one image to social, ecommerce, Open Graph, and creator image workflows.
 - https://imagesizekit.com/open-graph-preview-checker/ - Browser-local checker for website share-card and Open Graph preview images.
+- https://imagesizekit.com/youtube-thumbnail-size-converter/ - YouTube thumbnail 16:9 size conversion workflow for clean export dimensions before upload.
 - https://imagesizekit.com/how-to-check-image-dimensions-before-upload/ - Image dimension pre-upload workflow guide.
 - https://imagesizekit.com/check-social-media-image-size-before-upload/ - Social image pre-upload workflow guide for dimensions, ratio, file size, crop-sensitive surfaces, Open Graph routing, and publish readiness.
 - https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ - Banner size and crop-risk pre-upload workflow guide.
@@ -27,6 +28,13 @@ Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic
 - banner crop checker -> https://imagesizekit.com/youtube-banner-safe-area/
 - social media banner size before posting -> https://imagesizekit.com/social-media-image-sizes/
 - website banner image size checker -> https://imagesizekit.com/open-graph-preview-checker/
+
+## YouTube Thumbnail Conversion Search Intents
+
+- youtube thumbnail size converter -> https://imagesizekit.com/youtube-thumbnail-size-converter/
+- convert youtube thumbnail size -> https://imagesizekit.com/youtube-thumbnail-size-converter/
+- 16:9 thumbnail size calculator -> https://imagesizekit.com/youtube-thumbnail-size-converter/
+- 1920 x 1080 thumbnail to 1280 x 720 -> https://imagesizekit.com/youtube-thumbnail-size-converter/
 
 ## Banner Workflow Bridge
 
@@ -51,6 +59,7 @@ Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic
 - https://www.flynnblog.com/imagesizekit-checker-workflows/social-image-preupload-workflow.html - Public workflow doc for checking social image size and publish readiness before upload.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/banner-size-crop-workflow.html - Public workflow doc for checking banner size and crop risk before upload.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/open-graph-preview-workflow.html - Public workflow doc for checking Open Graph preview images before publishing metadata.
+- https://www.flynnblog.com/imagesizekit-checker-workflows/youtube-thumbnail-size-conversion-workflow.html - Public workflow doc for converting YouTube thumbnail sizes while keeping a clean 16:9 ratio.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html - Public workflow status reference for ImageSizeKit checker workflows and canonical discovery targets.
 
 ## Privacy And Independence

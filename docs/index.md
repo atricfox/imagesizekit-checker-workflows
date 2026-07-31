@@ -30,6 +30,7 @@ ImageSizeKit is an independent browser-local image size checker and guide librar
 - Social image pre-upload workflow: ./social-image-preupload-workflow.md
 - Banner size and crop workflow: ./banner-size-crop-workflow.md
 - Open Graph preview workflow: ./open-graph-preview-workflow.md
+- YouTube thumbnail size conversion workflow: ./youtube-thumbnail-size-conversion-workflow.md
 - Workflow status reference: ./p0-indexing-queue.md
 - Pages sitemap: ./sitemap.xml
 - Robots file: ./robots.txt
