@@ -5,7 +5,7 @@ ImageSizeKit Checker Workflows is a public reference asset for ImageSizeKit brow
 Primary Pages URL: https://www.flynnblog.com/imagesizekit-checker-workflows/
 Pages sitemap: https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
-Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.5
+Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.6
 Canonical ImageSizeKit site: https://imagesizekit.com/
 
 Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic browser-local checker. The older image-dimension-checker path redirects to the canonical image-size-checker route.

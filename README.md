@@ -22,7 +22,7 @@ Public Pages landing:
 - https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 - https://www.flynnblog.com/imagesizekit-checker-workflows/robots.txt
 - https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.5
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.6
 
 ## Primary Discovery Routes
 
@@ -51,7 +51,7 @@ Canonical note: use `https://imagesizekit.com/image-size-checker/` for the gener
 | Check a mixed social media image | https://imagesizekit.com/social-media-image-checker/ | Use this when one image might become an Instagram post, LinkedIn banner, Facebook cover, Open Graph image, Etsy listing, Shopify product image, or marketplace graphic. |
 | Check a website share preview image | https://imagesizekit.com/open-graph-preview-checker/ | Use this before adding or refreshing `og:image` metadata for a page preview. |
 
-## Image Dimension Workflow
+## Image Size Workflow
 
 Start with the real exported file, not the design canvas name.
 
@@ -109,7 +109,7 @@ Useful routes:
 
 - Full workflow: https://imagesizekit.com/open-graph-preview-checker/
 - Open Graph image size guide: https://imagesizekit.com/open-graph-image-size/
-- Image dimension checker: https://imagesizekit.com/image-size-checker/
+- Image size checker: https://imagesizekit.com/image-size-checker/
 - Social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Banner checker: https://imagesizekit.com/banner-size-checker/
 
