@@ -1,0 +1,29 @@
+# ImageSizeKit Checker Workflows
+
+ImageSizeKit Checker Workflows is a public reference asset for ImageSizeKit browser-local image dimension checks, banner crop checks, social media image checks, and Open Graph preview checks.
+
+Primary Pages URL: https://www.flynnblog.com/imagesizekit-checker-workflows/
+Pages sitemap: https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
+Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
+Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.1
+Canonical ImageSizeKit site: https://imagesizekit.com/
+
+## Canonical ImageSizeKit Routes
+
+- https://imagesizekit.com/image-dimension-checker/ - Browser-local checker for image width, height, aspect ratio, format, and file size.
+- https://imagesizekit.com/banner-size-checker/ - Browser-local checker for wide banners, covers, headers, channel art, and crop-prone image assets.
+- https://imagesizekit.com/social-media-image-checker/ - Browser-local checker for routing one image to social, ecommerce, Open Graph, and creator image workflows.
+- https://imagesizekit.com/open-graph-preview-checker/ - Browser-local checker for website share-card and Open Graph preview images.
+- https://imagesizekit.com/how-to-check-image-dimensions-before-upload/ - Image dimension pre-upload workflow guide.
+- https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ - Banner size and crop-risk pre-upload workflow guide.
+
+## Repository Docs
+
+- https://www.flynnblog.com/imagesizekit-checker-workflows/image-dimension-preupload-workflow.html - Public workflow doc for checking exported image dimensions before upload.
+- https://www.flynnblog.com/imagesizekit-checker-workflows/banner-size-crop-workflow.html - Public workflow doc for checking banner size and crop risk before upload.
+
+## Privacy And Independence
+
+ImageSizeKit checker pages are intended for local browser checks. Selected images are inspected in the browser for basic dimensions and routing. This public repository does not contain the private ImageSizeKit website source code, user uploads, analytics credentials, service-account keys, or application secrets.
+
+ImageSizeKit is independent and is not affiliated with YouTube, Google, Instagram, Facebook, LinkedIn, Shopify, Etsy, Whatnot, or Open Graph platforms.

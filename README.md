@@ -18,6 +18,8 @@ Public Pages landing:
 
 - https://www.flynnblog.com/imagesizekit-checker-workflows/
 - https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
+- https://www.flynnblog.com/imagesizekit-checker-workflows/robots.txt
+- https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
 
 ## Primary Discovery Routes
 
