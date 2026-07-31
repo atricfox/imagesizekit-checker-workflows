@@ -62,4 +62,4 @@ https://imagesizekit.com/open-graph-image-size/
 - Complementary image dimension workflow: https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
 - Complementary social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Complementary banner crop workflow: https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.6
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.7

@@ -22,7 +22,8 @@ Public Pages landing:
 - https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 - https://www.flynnblog.com/imagesizekit-checker-workflows/robots.txt
 - https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.6
+- P0 indexing queue: https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.7
 
 ## Primary Discovery Routes
 
@@ -50,6 +51,10 @@ Canonical note: use `https://imagesizekit.com/image-size-checker/` for the gener
 | Check banner size and crop risk | https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ | Use this when a wide header, cover, channel art, or profile banner might crop text or logos after upload. |
 | Check a mixed social media image | https://imagesizekit.com/social-media-image-checker/ | Use this when one image might become an Instagram post, LinkedIn banner, Facebook cover, Open Graph image, Etsy listing, Shopify product image, or marketplace graphic. |
 | Check a website share preview image | https://imagesizekit.com/open-graph-preview-checker/ | Use this before adding or refreshing `og:image` metadata for a page preview. |
+
+## P0 Indexing Queue
+
+The public queue at https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html lists the current indexed bridge pages, discovered-not-indexed pages, and unknown P0 ImageSizeKit URLs from Search Console URL Inspection.
 
 ## Image Size Workflow
 

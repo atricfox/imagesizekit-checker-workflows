@@ -5,7 +5,7 @@ ImageSizeKit Checker Workflows is a public reference asset for ImageSizeKit brow
 Primary Pages URL: https://www.flynnblog.com/imagesizekit-checker-workflows/
 Pages sitemap: https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
-Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.6
+Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.7
 Canonical ImageSizeKit site: https://imagesizekit.com/
 
 Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic browser-local checker. The older image-dimension-checker path redirects to the canonical image-size-checker route.
@@ -36,12 +36,19 @@ Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic
 - Cross-platform social image hub: https://imagesizekit.com/social-media-image-sizes/
 - Open Graph exception route: https://imagesizekit.com/open-graph-preview-checker/
 
+## P0 Indexing Queue
+
+- Public P0 queue: https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html
+- Indexed bridge pages: https://imagesizekit.com/youtube-thumbnail-size/, https://imagesizekit.com/youtube-thumbnail-blurry/, https://imagesizekit.com/youtube-shorts-thumbnail-size/, https://imagesizekit.com/youtube-banner-safe-area/
+- Priority unknown targets include the canonical Image Size Checker, Banner Size Checker, Social Media Image Sizes, LinkedIn Banner Size, Open Graph Image Size, Whatnot Image Size, template hub, and YouTube thumbnail repair pages.
+
 ## Repository Docs
 
 - https://www.flynnblog.com/imagesizekit-checker-workflows/image-dimension-preupload-workflow.html - Public workflow doc for checking exported image dimensions before upload.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/social-image-preupload-workflow.html - Public workflow doc for checking social image size and publish readiness before upload.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/banner-size-crop-workflow.html - Public workflow doc for checking banner size and crop risk before upload.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/open-graph-preview-workflow.html - Public workflow doc for checking Open Graph preview images before publishing metadata.
+- https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html - Public queue for ImageSizeKit P0 indexing states and canonical discovery targets.
 
 ## Privacy And Independence
 

@@ -30,11 +30,12 @@ ImageSizeKit is an independent browser-local image size checker and guide librar
 - Social image pre-upload workflow: ./social-image-preupload-workflow.md
 - Banner size and crop workflow: ./banner-size-crop-workflow.md
 - Open Graph preview workflow: ./open-graph-preview-workflow.md
+- P0 indexing queue: ./p0-indexing-queue.md
 - Pages sitemap: ./sitemap.xml
 - Robots file: ./robots.txt
 - LLM reference file: ./llms.txt
 - Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.6
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.7
 
 ## Independence And Privacy
 
