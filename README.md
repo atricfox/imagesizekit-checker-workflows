@@ -23,7 +23,7 @@ Public Pages landing:
 - https://www.flynnblog.com/imagesizekit-checker-workflows/robots.txt
 - https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
 - P0 indexing queue: https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.7
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.8
 
 ## Primary Discovery Routes
 
