@@ -1,6 +1,6 @@
 # Image Dimension Pre-upload Workflow
 
-Last updated: 2026-07-31.
+Last updated: 2026-08-01.
 
 Use this workflow when you have an exported image file and need to decide where it belongs before publishing.
 
@@ -32,7 +32,7 @@ Related checker routes:
 |---|---|
 | YouTube thumbnail or video cover | https://imagesizekit.com/youtube-thumbnail-size/ |
 | YouTube Shorts or vertical cover | https://imagesizekit.com/youtube-shorts-thumbnail-size/ |
-| Mixed social media image | https://imagesizekit.com/social-media-image-checker/ |
+| Mixed social media image | https://imagesizekit.com/check-social-media-image-size-before-upload/ |
 | Website share preview image | https://imagesizekit.com/open-graph-preview-checker/ |
 | Wide header or banner | https://imagesizekit.com/banner-size-checker/ |
 | Wrong ratio that needs a clean resize | https://imagesizekit.com/aspect-ratio-calculator/ |
@@ -58,5 +58,6 @@ https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
 - Public Pages landing: https://www.flynnblog.com/imagesizekit-checker-workflows/
 - Pages sitemap: https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 - Pages llms.txt: https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
+- Complementary social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Complementary banner crop workflow: https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.1
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.2

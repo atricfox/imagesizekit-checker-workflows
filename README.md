@@ -2,7 +2,7 @@
 
 Public workflow notes for using ImageSizeKit before publishing creator, social, banner, marketplace, and website preview images.
 
-Last updated: 2026-07-31.
+Last updated: 2026-08-01.
 
 ImageSizeKit is a browser-local image size checker and guide library:
 
@@ -11,6 +11,7 @@ ImageSizeKit is a browser-local image size checker and guide library:
 - Banner Size Checker: https://imagesizekit.com/banner-size-checker/
 - Social Media Image Checker: https://imagesizekit.com/social-media-image-checker/
 - Open Graph Preview Checker: https://imagesizekit.com/open-graph-preview-checker/
+- Social Image Pre-upload Workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 
 The checker pages are designed for pre-upload decisions. They read the selected image file in the browser and help route the file to the closest publishing workflow.
 
@@ -32,6 +33,7 @@ These are the canonical ImageSizeKit routes this repository references for crawl
 | Social Media Image Checker | https://imagesizekit.com/social-media-image-checker/ | Browser-local routing tool for Instagram, LinkedIn, Facebook, Open Graph, ecommerce, and creator images. |
 | Open Graph Preview Checker | https://imagesizekit.com/open-graph-preview-checker/ | Browser-local tool for checking website share-card images before publishing metadata. |
 | Image dimension pre-upload workflow | https://imagesizekit.com/how-to-check-image-dimensions-before-upload/ | Step-by-step guide for checking exported files before choosing a platform route. |
+| Social image pre-upload workflow | https://imagesizekit.com/check-social-media-image-size-before-upload/ | Step-by-step guide for checking social image dimensions, ratio, file size, crop risk, Open Graph routing, and publish readiness. |
 | Banner crop pre-upload workflow | https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ | Step-by-step guide for checking banner dimensions and crop risk before upload. |
 
 ## Core Workflows
@@ -39,6 +41,7 @@ These are the canonical ImageSizeKit routes this repository references for crawl
 | Workflow | Start here | When to use |
 |---|---|---|
 | Check image dimensions before upload | https://imagesizekit.com/how-to-check-image-dimensions-before-upload/ | Use this when you have an exported image file and need width, height, aspect ratio, file size, format, and the next publishing route. |
+| Check a social image before publishing | https://imagesizekit.com/check-social-media-image-size-before-upload/ | Use this when an image may become an Instagram, Facebook, LinkedIn, Open Graph, ecommerce, or creator asset and needs a final publish gate. |
 | Check banner size and crop risk | https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ | Use this when a wide header, cover, channel art, or profile banner might crop text or logos after upload. |
 | Check a mixed social media image | https://imagesizekit.com/social-media-image-checker/ | Use this when one image might become an Instagram post, LinkedIn banner, Facebook cover, Open Graph image, Etsy listing, Shopify product image, or marketplace graphic. |
 | Check a website share preview image | https://imagesizekit.com/open-graph-preview-checker/ | Use this before adding or refreshing `og:image` metadata for a page preview. |
@@ -60,8 +63,30 @@ Useful routes:
 - Full workflow: https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
 - Local checker: https://imagesizekit.com/image-dimension-checker/
 - YouTube image sizes hub: https://imagesizekit.com/youtube-image-sizes/
+- Social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Social image sizes hub: https://imagesizekit.com/social-media-image-sizes/
 - Aspect ratio calculator: https://imagesizekit.com/aspect-ratio-calculator/
+
+## Social Image Pre-upload Workflow
+
+A social image can pass a basic size check and still fail because the final destination is unclear, the ratio is wrong for the surface, the file is too heavy, or important text lands in a cropped area.
+
+Check:
+
+1. The final exported image file.
+2. The target surface: Instagram, Facebook, LinkedIn, Open Graph, ecommerce, or creator workflow.
+3. Width, height, aspect ratio, file size, and format.
+4. Crop-sensitive areas such as profile overlaps, grid crops, feed previews, and share-card crops.
+5. The next route when the image fails the check.
+
+Useful routes:
+
+- Full workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
+- Social media image checker: https://imagesizekit.com/social-media-image-checker/
+- Social media image sizes hub: https://imagesizekit.com/social-media-image-sizes/
+- Open Graph image size: https://imagesizekit.com/open-graph-image-size/
+- Open Graph preview checker: https://imagesizekit.com/open-graph-preview-checker/
+- Banner checker: https://imagesizekit.com/banner-size-checker/
 
 ## Banner Crop Workflow
 
@@ -79,6 +104,7 @@ Useful routes:
 
 - Full workflow: https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
 - Banner checker: https://imagesizekit.com/banner-size-checker/
+- Social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - YouTube banner safe area: https://imagesizekit.com/youtube-banner-safe-area/
 - YouTube banner template: https://imagesizekit.com/youtube-banner-template/
 - LinkedIn banner size: https://imagesizekit.com/linkedin-banner-size/

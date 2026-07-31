@@ -1,6 +1,6 @@
 # Banner Size And Crop Workflow
 
-Last updated: 2026-07-31.
+Last updated: 2026-08-01.
 
 Use this workflow when a wide image needs to become a profile banner, channel banner, cover photo, website header, or other wide publishing asset.
 
@@ -36,7 +36,7 @@ Related checker routes:
 | YouTube channel art template | https://imagesizekit.com/youtube-banner-template/ |
 | LinkedIn profile or Page banner | https://imagesizekit.com/linkedin-banner-size/ |
 | Facebook cover photo | https://imagesizekit.com/facebook-cover-photo-size/ |
-| Mixed social image with unclear target | https://imagesizekit.com/social-media-image-checker/ |
+| Mixed social image with unclear target | https://imagesizekit.com/check-social-media-image-size-before-upload/ |
 | Website preview image instead of a banner | https://imagesizekit.com/open-graph-preview-checker/ |
 
 ## Common Failure Pattern
@@ -60,5 +60,6 @@ https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
 - Public Pages landing: https://www.flynnblog.com/imagesizekit-checker-workflows/
 - Pages sitemap: https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 - Pages llms.txt: https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
+- Complementary social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Complementary image dimension workflow: https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.1
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.2

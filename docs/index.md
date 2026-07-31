@@ -1,6 +1,6 @@
 # ImageSizeKit Checker Workflow Landing
 
-Last updated: 2026-07-31.
+Last updated: 2026-08-01.
 
 This public GitHub Pages entry explains the ImageSizeKit checker workflow routes for image dimensions, banner crop risk, social media image size checks, and Open Graph preview checks.
 
@@ -20,17 +20,19 @@ ImageSizeKit is an independent browser-local image size checker and guide librar
 | Workflow | Canonical ImageSizeKit URL | Use when |
 |---|---|---|
 | Image dimension pre-upload workflow | https://imagesizekit.com/how-to-check-image-dimensions-before-upload/ | You need a repeatable file-check process before uploading an image. |
+| Social image pre-upload workflow | https://imagesizekit.com/check-social-media-image-size-before-upload/ | You need a final gate for social image dimensions, ratio, file size, crop-sensitive surfaces, and Open Graph routing. |
 | Banner size and crop workflow | https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ | You need to check dimensions and safe-area risk before uploading a wide banner. |
 
 ## Repository Docs
 
 - Image dimension pre-upload workflow: ./image-dimension-preupload-workflow.md
+- Social image pre-upload workflow: ./social-image-preupload-workflow.md
 - Banner size and crop workflow: ./banner-size-crop-workflow.md
 - Pages sitemap: ./sitemap.xml
 - Robots file: ./robots.txt
 - LLM reference file: ./llms.txt
 - Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.1
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.2
 
 ## Independence And Privacy
 
