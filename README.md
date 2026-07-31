@@ -43,6 +43,7 @@ Canonical note: use `https://imagesizekit.com/image-size-checker/` for the gener
 | Banner crop pre-upload workflow | https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ | Step-by-step guide for checking banner dimensions and crop risk before upload. |
 | Open Graph preview workflow | https://imagesizekit.com/open-graph-preview-checker/ | Step-by-step workflow for checking website share-card images before debugging metadata or social cache issues. |
 | YouTube thumbnail size conversion workflow | https://imagesizekit.com/youtube-thumbnail-size-converter/ | Step-by-step workflow for converting YouTube thumbnail exports to a clean 16:9 size. |
+| YouTube thumbnail repair workflow | https://imagesizekit.com/check-youtube-thumbnail-size-before-uploading/ | Step-by-step workflow for final thumbnail checks, format decisions, text readability, and YouTube asset routing. |
 
 ## Core Workflows
 
@@ -55,6 +56,7 @@ Canonical note: use `https://imagesizekit.com/image-size-checker/` for the gener
 | Confirm Open Graph image size | https://imagesizekit.com/open-graph-image-size/ | Use this when a website share card needs a 1200 x 630 or 1.91:1 image before metadata debugging. |
 | Check a website share preview image | https://imagesizekit.com/open-graph-preview-checker/ | Use this before adding or refreshing `og:image` metadata for a page preview. |
 | Convert a YouTube thumbnail size | https://imagesizekit.com/youtube-thumbnail-size-converter/ | Use this when a thumbnail needs a 16:9 export size such as 1280 x 720, 1920 x 1080, or 3840 x 2160. |
+| Repair a YouTube thumbnail before upload | https://imagesizekit.com/check-youtube-thumbnail-size-before-uploading/ | Use this when a thumbnail needs a final size, format, text, or routing check before publishing. |
 
 ## Workflow Status Reference
 
@@ -190,6 +192,25 @@ Useful routes:
 - YouTube thumbnail size guide: https://imagesizekit.com/youtube-thumbnail-size/
 - Thumbnail pre-upload checklist: https://imagesizekit.com/check-youtube-thumbnail-size-before-uploading/
 - Image size checker: https://imagesizekit.com/image-size-checker/
+
+## YouTube Thumbnail Repair Workflow
+
+A YouTube thumbnail can pass the basic size rule and still fail because the final export is soft, too heavy, hard to read, or routed to the wrong YouTube asset type.
+
+Check:
+
+1. Whether the exported file passes the final pre-upload gate.
+2. Whether the issue is blur, compression, format, text readability, or asset routing.
+3. Whether the page should use the standard thumbnail route or a broader YouTube image-size guide.
+
+Useful routes:
+
+- Full workflow: https://www.flynnblog.com/imagesizekit-checker-workflows/youtube-thumbnail-repair-workflow.html
+- Thumbnail pre-upload checklist: https://imagesizekit.com/check-youtube-thumbnail-size-before-uploading/
+- JPG vs PNG thumbnail guide: https://imagesizekit.com/youtube-thumbnail-jpg-vs-png/
+- Thumbnail text guide: https://imagesizekit.com/youtube-thumbnail-text/
+- YouTube image sizes hub: https://imagesizekit.com/youtube-image-sizes/
+- Blurry thumbnail fix: https://imagesizekit.com/youtube-thumbnail-blurry/
 
 ## Independence And Privacy
 

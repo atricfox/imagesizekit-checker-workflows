@@ -18,6 +18,10 @@ Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic
 - https://imagesizekit.com/open-graph-preview-checker/ - Browser-local checker for website share-card and Open Graph preview images.
 - https://imagesizekit.com/open-graph-image-size/ - Open Graph image size guide for 1200 x 630 and 1.91:1 website share-card images.
 - https://imagesizekit.com/youtube-thumbnail-size-converter/ - YouTube thumbnail 16:9 size conversion workflow for clean export dimensions before upload.
+- https://imagesizekit.com/check-youtube-thumbnail-size-before-uploading/ - YouTube thumbnail pre-upload checklist for final size, ratio, file type, file weight, and readiness checks.
+- https://imagesizekit.com/youtube-thumbnail-jpg-vs-png/ - YouTube thumbnail format decision guide for JPG, PNG, WebP, and AVIF export tradeoffs.
+- https://imagesizekit.com/youtube-thumbnail-text/ - YouTube thumbnail text readability guide for feed-scale legibility and title pairing.
+- https://imagesizekit.com/youtube-image-sizes/ - YouTube image sizes hub for routing thumbnails, Shorts covers, banners, profile pictures, podcast covers, and community posts.
 - https://imagesizekit.com/how-to-check-image-dimensions-before-upload/ - Image dimension pre-upload workflow guide.
 - https://imagesizekit.com/check-social-media-image-size-before-upload/ - Social image pre-upload workflow guide for dimensions, ratio, file size, crop-sensitive surfaces, Open Graph routing, and publish readiness.
 - https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ - Banner size and crop-risk pre-upload workflow guide.
@@ -36,6 +40,14 @@ Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic
 - convert youtube thumbnail size -> https://imagesizekit.com/youtube-thumbnail-size-converter/
 - 16:9 thumbnail size calculator -> https://imagesizekit.com/youtube-thumbnail-size-converter/
 - 1920 x 1080 thumbnail to 1280 x 720 -> https://imagesizekit.com/youtube-thumbnail-size-converter/
+
+## YouTube Thumbnail Repair Search Intents
+
+- check youtube thumbnail size before uploading -> https://imagesizekit.com/check-youtube-thumbnail-size-before-uploading/
+- youtube thumbnail jpg vs png -> https://imagesizekit.com/youtube-thumbnail-jpg-vs-png/
+- youtube thumbnail text readability -> https://imagesizekit.com/youtube-thumbnail-text/
+- youtube image sizes -> https://imagesizekit.com/youtube-image-sizes/
+- fix blurry youtube thumbnail -> https://imagesizekit.com/youtube-thumbnail-blurry/
 
 ## Social Image Checker Search Intents
 
@@ -77,6 +89,7 @@ Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic
 - https://www.flynnblog.com/imagesizekit-checker-workflows/open-graph-preview-workflow.html - Public workflow doc for checking Open Graph preview images before publishing metadata.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/open-graph-image-size-workflow.html - Public workflow doc for choosing and validating Open Graph image dimensions before metadata debugging.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/youtube-thumbnail-size-conversion-workflow.html - Public workflow doc for converting YouTube thumbnail sizes while keeping a clean 16:9 ratio.
+- https://www.flynnblog.com/imagesizekit-checker-workflows/youtube-thumbnail-repair-workflow.html - Public workflow doc for repairing YouTube thumbnail size, format, text readability, and asset routing issues before upload.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html - Public workflow status reference for ImageSizeKit checker workflows and canonical discovery targets.
 
 ## Privacy And Independence
