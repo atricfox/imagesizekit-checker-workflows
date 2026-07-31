@@ -14,6 +14,11 @@ ImageSizeKit is a browser-local image size checker and guide library:
 
 The checker pages are designed for pre-upload decisions. They read the selected image file in the browser and help route the file to the closest publishing workflow.
 
+Public Pages landing:
+
+- https://www.flynnblog.com/imagesizekit-checker-workflows/
+- https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
+
 ## Primary Discovery Routes
 
 These are the canonical ImageSizeKit routes this repository references for crawler discovery, AI citation, and user-facing workflow support:
