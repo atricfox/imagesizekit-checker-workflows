@@ -14,7 +14,7 @@ https://imagesizekit.com/open-graph-image-size/
 
 Related checker routes:
 
-- Image Size Checker: https://imagesizekit.com/image-dimension-checker/
+- Image Size Checker: https://imagesizekit.com/image-size-checker/
 - Social Media Image Checker: https://imagesizekit.com/social-media-image-checker/
 - Banner Size Checker: https://imagesizekit.com/banner-size-checker/
 
@@ -33,7 +33,7 @@ Related checker routes:
 |---|---|
 | Preview the final share-card image | https://imagesizekit.com/open-graph-preview-checker/ |
 | Confirm the recommended Open Graph image size | https://imagesizekit.com/open-graph-image-size/ |
-| Check the exported image file dimensions first | https://imagesizekit.com/image-dimension-checker/ |
+| Check the exported image file dimensions first | https://imagesizekit.com/image-size-checker/ |
 | Route a broad social image before choosing a platform | https://imagesizekit.com/check-social-media-image-size-before-upload/ |
 | Check a wide website hero or banner instead | https://imagesizekit.com/banner-size-checker/ |
 | Resize by aspect ratio before re-exporting | https://imagesizekit.com/aspect-ratio-calculator/ |
@@ -62,4 +62,4 @@ https://imagesizekit.com/open-graph-image-size/
 - Complementary image dimension workflow: https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
 - Complementary social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Complementary banner crop workflow: https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.3
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.5

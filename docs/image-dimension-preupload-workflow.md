@@ -10,7 +10,7 @@ https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
 
 Local checker:
 
-https://imagesizekit.com/image-dimension-checker/
+https://imagesizekit.com/image-size-checker/
 
 Related checker routes:
 
@@ -47,7 +47,7 @@ Check the real exported file before the upload screen.
 
 The canonical ImageSizeKit URL for the browser-local checker is:
 
-https://imagesizekit.com/image-dimension-checker/
+https://imagesizekit.com/image-size-checker/
 
 The canonical ImageSizeKit URL for the complete workflow guide is:
 
@@ -61,4 +61,4 @@ https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
 - Complementary social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Complementary banner crop workflow: https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
 - Complementary Open Graph preview workflow: https://imagesizekit.com/open-graph-preview-checker/
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.3
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.5

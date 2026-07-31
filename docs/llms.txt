@@ -5,12 +5,14 @@ ImageSizeKit Checker Workflows is a public reference asset for ImageSizeKit brow
 Primary Pages URL: https://www.flynnblog.com/imagesizekit-checker-workflows/
 Pages sitemap: https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
-Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.4
+Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.5
 Canonical ImageSizeKit site: https://imagesizekit.com/
+
+Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic browser-local checker. The older image-dimension-checker path redirects to the canonical image-size-checker route.
 
 ## Canonical ImageSizeKit Routes
 
-- https://imagesizekit.com/image-dimension-checker/ - Browser-local checker for image width, height, aspect ratio, format, and file size.
+- https://imagesizekit.com/image-size-checker/ - Browser-local checker for image width, height, aspect ratio, format, and file size.
 - https://imagesizekit.com/banner-size-checker/ - Browser-local checker for wide banners, covers, headers, channel art, and crop-prone image assets.
 - https://imagesizekit.com/social-media-image-checker/ - Browser-local checker for routing one image to social, ecommerce, Open Graph, and creator image workflows.
 - https://imagesizekit.com/open-graph-preview-checker/ - Browser-local checker for website share-card and Open Graph preview images.

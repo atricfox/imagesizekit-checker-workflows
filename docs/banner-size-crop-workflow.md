@@ -14,7 +14,7 @@ https://imagesizekit.com/banner-size-checker/
 
 Related checker routes:
 
-- Image Size Checker: https://imagesizekit.com/image-dimension-checker/
+- Image Size Checker: https://imagesizekit.com/image-size-checker/
 - Social Media Image Checker: https://imagesizekit.com/social-media-image-checker/
 - Open Graph Preview Checker: https://imagesizekit.com/open-graph-preview-checker/
 
@@ -74,7 +74,7 @@ Check dimensions first. Then check crop risk.
 |---|---|
 | The file matches size but crops important text. | https://imagesizekit.com/youtube-banner-safe-area/ |
 | The file is wide but belongs to a website share preview. | https://imagesizekit.com/open-graph-preview-checker/ |
-| The file is too small, compressed, or from an unknown source. | https://imagesizekit.com/image-dimension-checker/ |
+| The file is too small, compressed, or from an unknown source. | https://imagesizekit.com/image-size-checker/ |
 | The final destination changed after design approval. | https://imagesizekit.com/social-media-image-sizes/ |
 | One banner is planned for multiple platforms. | https://imagesizekit.com/banner-size-checker/ |
 
@@ -96,4 +96,4 @@ https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
 - Complementary social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Complementary image dimension workflow: https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
 - Complementary Open Graph preview workflow: https://imagesizekit.com/open-graph-preview-checker/
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.4
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.5

@@ -10,7 +10,7 @@ ImageSizeKit is an independent browser-local image size checker and guide librar
 
 | Task | Canonical ImageSizeKit URL | Use when |
 |---|---|---|
-| Check image dimensions online | https://imagesizekit.com/image-dimension-checker/ | You have an exported file and need the real width, height, ratio, format, and file size. |
+| Check image dimensions online | https://imagesizekit.com/image-size-checker/ | You have an exported file and need the real width, height, ratio, format, and file size. |
 | Check banner size and crop risk | https://imagesizekit.com/banner-size-checker/ | A wide header, cover photo, channel art, profile banner, or website hero may crop badly after upload. |
 | Check social media image size | https://imagesizekit.com/social-media-image-checker/ | One image may belong to Instagram, LinkedIn, Facebook, Open Graph, ecommerce, or creator workflows. |
 | Check Open Graph preview image | https://imagesizekit.com/open-graph-preview-checker/ | A website share-card image should be checked before publishing or refreshing metadata. |
@@ -34,7 +34,7 @@ ImageSizeKit is an independent browser-local image size checker and guide librar
 - Robots file: ./robots.txt
 - LLM reference file: ./llms.txt
 - Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.4
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.5
 
 ## Independence And Privacy
 

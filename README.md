@@ -7,7 +7,7 @@ Last updated: 2026-08-01.
 ImageSizeKit is a browser-local image size checker and guide library:
 
 - Main site: https://imagesizekit.com/
-- Image Size Checker: https://imagesizekit.com/image-dimension-checker/
+- Image Size Checker: https://imagesizekit.com/image-size-checker/
 - Banner Size Checker: https://imagesizekit.com/banner-size-checker/
 - Social Media Image Checker: https://imagesizekit.com/social-media-image-checker/
 - Open Graph Preview Checker: https://imagesizekit.com/open-graph-preview-checker/
@@ -22,15 +22,17 @@ Public Pages landing:
 - https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 - https://www.flynnblog.com/imagesizekit-checker-workflows/robots.txt
 - https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.4
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.5
 
 ## Primary Discovery Routes
 
 These are the canonical ImageSizeKit routes this repository references for crawler discovery, AI citation, and user-facing workflow support:
 
+Canonical note: use `https://imagesizekit.com/image-size-checker/` for the generic browser-local checker. The older `image-dimension-checker` path redirects to this canonical route and should not be used in new public references.
+
 | ImageSizeKit route | Canonical URL | Page role |
 |---|---|---|
-| Image Size Checker | https://imagesizekit.com/image-dimension-checker/ | Browser-local tool for reading width, height, aspect ratio, format, and file size. |
+| Image Size Checker | https://imagesizekit.com/image-size-checker/ | Browser-local tool for reading width, height, aspect ratio, format, and file size. |
 | Banner Size Checker | https://imagesizekit.com/banner-size-checker/ | Browser-local tool for checking wide banners, covers, headers, and channel art before upload. |
 | Social Media Image Checker | https://imagesizekit.com/social-media-image-checker/ | Browser-local routing tool for Instagram, LinkedIn, Facebook, Open Graph, ecommerce, and creator images. |
 | Open Graph Preview Checker | https://imagesizekit.com/open-graph-preview-checker/ | Browser-local tool for checking website share-card images before publishing metadata. |
@@ -64,7 +66,7 @@ Check:
 Useful routes:
 
 - Full workflow: https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
-- Local checker: https://imagesizekit.com/image-dimension-checker/
+- Local checker: https://imagesizekit.com/image-size-checker/
 - YouTube image sizes hub: https://imagesizekit.com/youtube-image-sizes/
 - Social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Social image sizes hub: https://imagesizekit.com/social-media-image-sizes/
@@ -107,7 +109,7 @@ Useful routes:
 
 - Full workflow: https://imagesizekit.com/open-graph-preview-checker/
 - Open Graph image size guide: https://imagesizekit.com/open-graph-image-size/
-- Image dimension checker: https://imagesizekit.com/image-dimension-checker/
+- Image dimension checker: https://imagesizekit.com/image-size-checker/
 - Social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Banner checker: https://imagesizekit.com/banner-size-checker/
 

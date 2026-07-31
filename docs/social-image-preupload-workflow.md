@@ -14,7 +14,7 @@ https://imagesizekit.com/social-media-image-checker/
 
 Related checker routes:
 
-- Image Size Checker: https://imagesizekit.com/image-dimension-checker/
+- Image Size Checker: https://imagesizekit.com/image-size-checker/
 - Banner Size Checker: https://imagesizekit.com/banner-size-checker/
 - Open Graph Preview Checker: https://imagesizekit.com/open-graph-preview-checker/
 
@@ -67,4 +67,4 @@ https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Complementary image dimension workflow: https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
 - Complementary banner crop workflow: https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
 - Complementary Open Graph preview workflow: https://imagesizekit.com/open-graph-preview-checker/
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.3
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.5
