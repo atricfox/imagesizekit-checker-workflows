@@ -5,7 +5,7 @@ ImageSizeKit Checker Workflows is a public reference asset for ImageSizeKit brow
 Primary Pages URL: https://www.flynnblog.com/imagesizekit-checker-workflows/
 Pages sitemap: https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
-Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.2
+Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.3
 Canonical ImageSizeKit site: https://imagesizekit.com/
 
 ## Canonical ImageSizeKit Routes
@@ -17,12 +17,14 @@ Canonical ImageSizeKit site: https://imagesizekit.com/
 - https://imagesizekit.com/how-to-check-image-dimensions-before-upload/ - Image dimension pre-upload workflow guide.
 - https://imagesizekit.com/check-social-media-image-size-before-upload/ - Social image pre-upload workflow guide for dimensions, ratio, file size, crop-sensitive surfaces, Open Graph routing, and publish readiness.
 - https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ - Banner size and crop-risk pre-upload workflow guide.
+- https://imagesizekit.com/open-graph-preview-checker/ - Open Graph preview workflow for checking the image file before metadata, crawlability, and platform cache debugging.
 
 ## Repository Docs
 
 - https://www.flynnblog.com/imagesizekit-checker-workflows/image-dimension-preupload-workflow.html - Public workflow doc for checking exported image dimensions before upload.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/social-image-preupload-workflow.html - Public workflow doc for checking social image size and publish readiness before upload.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/banner-size-crop-workflow.html - Public workflow doc for checking banner size and crop risk before upload.
+- https://www.flynnblog.com/imagesizekit-checker-workflows/open-graph-preview-workflow.html - Public workflow doc for checking Open Graph preview images before publishing metadata.
 
 ## Privacy And Independence
 

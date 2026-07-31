@@ -22,17 +22,19 @@ ImageSizeKit is an independent browser-local image size checker and guide librar
 | Image dimension pre-upload workflow | https://imagesizekit.com/how-to-check-image-dimensions-before-upload/ | You need a repeatable file-check process before uploading an image. |
 | Social image pre-upload workflow | https://imagesizekit.com/check-social-media-image-size-before-upload/ | You need a final gate for social image dimensions, ratio, file size, crop-sensitive surfaces, and Open Graph routing. |
 | Banner size and crop workflow | https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ | You need to check dimensions and safe-area risk before uploading a wide banner. |
+| Open Graph preview workflow | https://imagesizekit.com/open-graph-preview-checker/ | You need to separate image-file, metadata, crawlability, and social cache issues before publishing a website share preview. |
 
 ## Repository Docs
 
 - Image dimension pre-upload workflow: ./image-dimension-preupload-workflow.md
 - Social image pre-upload workflow: ./social-image-preupload-workflow.md
 - Banner size and crop workflow: ./banner-size-crop-workflow.md
+- Open Graph preview workflow: ./open-graph-preview-workflow.md
 - Pages sitemap: ./sitemap.xml
 - Robots file: ./robots.txt
 - LLM reference file: ./llms.txt
 - Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.2
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.3
 
 ## Independence And Privacy
 

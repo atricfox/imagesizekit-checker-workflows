@@ -12,6 +12,7 @@ ImageSizeKit is a browser-local image size checker and guide library:
 - Social Media Image Checker: https://imagesizekit.com/social-media-image-checker/
 - Open Graph Preview Checker: https://imagesizekit.com/open-graph-preview-checker/
 - Social Image Pre-upload Workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
+- Open Graph Preview Workflow: https://imagesizekit.com/open-graph-preview-checker/
 
 The checker pages are designed for pre-upload decisions. They read the selected image file in the browser and help route the file to the closest publishing workflow.
 
@@ -35,6 +36,7 @@ These are the canonical ImageSizeKit routes this repository references for crawl
 | Image dimension pre-upload workflow | https://imagesizekit.com/how-to-check-image-dimensions-before-upload/ | Step-by-step guide for checking exported files before choosing a platform route. |
 | Social image pre-upload workflow | https://imagesizekit.com/check-social-media-image-size-before-upload/ | Step-by-step guide for checking social image dimensions, ratio, file size, crop risk, Open Graph routing, and publish readiness. |
 | Banner crop pre-upload workflow | https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ | Step-by-step guide for checking banner dimensions and crop risk before upload. |
+| Open Graph preview workflow | https://imagesizekit.com/open-graph-preview-checker/ | Step-by-step workflow for checking website share-card images before debugging metadata or social cache issues. |
 
 ## Core Workflows
 
@@ -88,6 +90,26 @@ Useful routes:
 - Open Graph preview checker: https://imagesizekit.com/open-graph-preview-checker/
 - Banner checker: https://imagesizekit.com/banner-size-checker/
 
+## Open Graph Preview Workflow
+
+A website share preview can fail because the image file is wrong, the page metadata points to the wrong image, the image is not publicly crawlable, or a social platform is still showing a cached preview.
+
+Check:
+
+1. The final `og:image` file before wiring metadata.
+2. The intended Open Graph image size and ratio.
+3. Whether the image is accessible at a public URL.
+4. Whether page metadata points to the expected image.
+5. Whether the issue is an image problem, metadata problem, crawlability problem, or platform cache problem.
+
+Useful routes:
+
+- Full workflow: https://imagesizekit.com/open-graph-preview-checker/
+- Open Graph image size guide: https://imagesizekit.com/open-graph-image-size/
+- Image dimension checker: https://imagesizekit.com/image-dimension-checker/
+- Social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
+- Banner checker: https://imagesizekit.com/banner-size-checker/
+
 ## Banner Crop Workflow
 
 A correct banner canvas can still crop badly when text, logos, or calls to action sit too close to an edge.
@@ -105,6 +127,7 @@ Useful routes:
 - Full workflow: https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
 - Banner checker: https://imagesizekit.com/banner-size-checker/
 - Social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
+- Open Graph preview checker: https://imagesizekit.com/open-graph-preview-checker/
 - YouTube banner safe area: https://imagesizekit.com/youtube-banner-safe-area/
 - YouTube banner template: https://imagesizekit.com/youtube-banner-template/
 - LinkedIn banner size: https://imagesizekit.com/linkedin-banner-size/
