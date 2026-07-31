@@ -23,7 +23,7 @@ Public Pages landing:
 - https://www.flynnblog.com/imagesizekit-checker-workflows/robots.txt
 - https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
 - P0 indexing queue: https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.9
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.10
 
 ## Primary Discovery Routes
 
@@ -55,6 +55,16 @@ Canonical note: use `https://imagesizekit.com/image-size-checker/` for the gener
 ## P0 Indexing Queue
 
 The public queue at https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html lists the current indexed bridge pages, discovered-not-indexed pages, and unknown P0 ImageSizeKit URLs from Search Console URL Inspection.
+
+## P0 Unknown Checker Entity Targets
+
+These canonical checker pages were still reported as unknown in the latest P0 URL Inspection run and therefore receive explicit external entity references from this workflow repository:
+
+| Unknown checker target | Canonical role | Best bridge context |
+|---|---|---|
+| https://imagesizekit.com/image-size-checker/ | The canonical browser-local file reader for width, height, aspect ratio, format, file size, orientation, and the nearest ImageSizeKit route. | Use when the user has an exported image but has not yet chosen YouTube, social, banner, marketplace, or Open Graph placement. |
+| https://imagesizekit.com/social-media-image-checker/ | The canonical browser-local router for mixed social, ecommerce, Open Graph, marketplace, and creator image files. | Use when one exported image may become an Instagram post, LinkedIn banner, Facebook cover, Open Graph card, Etsy image, Shopify product image, Whatnot image, or YouTube asset. |
+| https://imagesizekit.com/open-graph-preview-checker/ | The canonical browser-local checker for website share-card image files before metadata, crawlability, and platform cache debugging. | Use when an exported 1200 x 630 or 1.91:1 image needs to become an `og:image` preview. |
 
 ## Image Size Workflow
 

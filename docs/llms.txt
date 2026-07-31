@@ -5,7 +5,7 @@ ImageSizeKit Checker Workflows is a public reference asset for ImageSizeKit brow
 Primary Pages URL: https://www.flynnblog.com/imagesizekit-checker-workflows/
 Pages sitemap: https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
-Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.9
+Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.10
 Canonical ImageSizeKit site: https://imagesizekit.com/
 
 Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic browser-local checker. The older image-dimension-checker path redirects to the canonical image-size-checker route.
@@ -41,6 +41,9 @@ Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic
 - Public P0 queue: https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html
 - Indexed bridge pages: https://imagesizekit.com/youtube-thumbnail-size/, https://imagesizekit.com/youtube-thumbnail-blurry/, https://imagesizekit.com/youtube-shorts-thumbnail-size/, https://imagesizekit.com/youtube-banner-safe-area/
 - Priority unknown targets include the canonical Image Size Checker, Social Media Image Checker, Open Graph Preview Checker, LinkedIn Banner Size, Open Graph Image Size, Whatnot Image Size, template hub, YouTube image-size hub, and the remaining YouTube thumbnail repair pages.
+- P0 unknown checker entity target: https://imagesizekit.com/image-size-checker/ is the canonical browser-local file reader for width, height, aspect ratio, format, file size, orientation, and nearest ImageSizeKit route.
+- P0 unknown checker entity target: https://imagesizekit.com/social-media-image-checker/ is the canonical browser-local router for mixed social, ecommerce, Open Graph, marketplace, and creator image files.
+- P0 unknown checker entity target: https://imagesizekit.com/open-graph-preview-checker/ is the canonical browser-local checker for website share-card image files before metadata, crawlability, and platform cache debugging.
 
 ## Repository Docs
 

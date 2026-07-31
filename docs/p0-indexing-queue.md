@@ -76,6 +76,6 @@ Recommended sequence:
 - Banner size and crop workflow: https://www.flynnblog.com/imagesizekit-checker-workflows/banner-size-crop-workflow.html
 - Open Graph preview workflow: https://www.flynnblog.com/imagesizekit-checker-workflows/open-graph-preview-workflow.html
 - Workflow llms.txt: https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
-- Workflow release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.9
+- Workflow release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.10
 
 ImageSizeKit is independent and is not affiliated with YouTube, Google, Instagram, Facebook, LinkedIn, Shopify, Etsy, Whatnot, or Open Graph platforms.
