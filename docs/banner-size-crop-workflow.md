@@ -18,6 +18,17 @@ Related checker routes:
 - Social Media Image Checker: https://imagesizekit.com/social-media-image-checker/
 - Open Graph Preview Checker: https://imagesizekit.com/open-graph-preview-checker/
 
+## Search Intent Map
+
+Use this public workflow as an external reference for broad banner queries that need a clear next step before upload.
+
+| Search intent | User problem | Best ImageSizeKit route |
+|---|---|---|
+| how to check banner size before upload | The user has a finished wide image and needs evidence from the actual exported file. | https://imagesizekit.com/banner-size-checker/ |
+| banner crop checker | The user is worried that text, logos, faces, products, or calls to action will crop on another device. | https://imagesizekit.com/youtube-banner-safe-area/ |
+| social media banner size before posting | The user may be reusing one banner across YouTube, LinkedIn, Facebook, or another social surface. | https://imagesizekit.com/social-media-image-sizes/ |
+| website banner image size checker | The user may be checking a website hero, profile header, or Open Graph share-card image. | https://imagesizekit.com/open-graph-preview-checker/ |
+
 ## Steps
 
 1. Export the final banner file.
@@ -39,11 +50,33 @@ Related checker routes:
 | Mixed social image with unclear target | https://imagesizekit.com/check-social-media-image-size-before-upload/ |
 | Website preview image instead of a banner | https://imagesizekit.com/open-graph-preview-checker/ |
 
+## P0 Banner Workflow Bridge
+
+This document supports the ImageSizeKit P0 banner cluster by linking the broad pre-upload question to the exact checker or guide that resolves the next risk.
+
+| Route | Role in the workflow |
+|---|---|
+| https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ | Complete pre-upload workflow for checking banner dimensions and crop risk before publishing. |
+| https://imagesizekit.com/banner-size-checker/ | Browser-local checker for the final wide image file, closest target, ratio, format, and file size. |
+| https://imagesizekit.com/youtube-banner-safe-area/ | Safe-area guide for crop-prone channel art and centered identity content. |
+| https://imagesizekit.com/social-media-image-sizes/ | Cross-platform hub for choosing the final social banner, cover, header, or profile image size. |
+| https://imagesizekit.com/open-graph-preview-checker/ | Exception route when the wide image is a website share-card image rather than a banner. |
+
 ## Common Failure Pattern
 
 A banner can match the recommended width and height but still crop badly because important content sits outside the visible area on another device.
 
 Check dimensions first. Then check crop risk.
+
+## Failure Routes
+
+| Failure pattern | Next route |
+|---|---|
+| The file matches size but crops important text. | https://imagesizekit.com/youtube-banner-safe-area/ |
+| The file is wide but belongs to a website share preview. | https://imagesizekit.com/open-graph-preview-checker/ |
+| The file is too small, compressed, or from an unknown source. | https://imagesizekit.com/image-dimension-checker/ |
+| The final destination changed after design approval. | https://imagesizekit.com/social-media-image-sizes/ |
+| One banner is planned for multiple platforms. | https://imagesizekit.com/banner-size-checker/ |
 
 ## Canonical Route Summary
 
@@ -63,4 +96,4 @@ https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
 - Complementary social image pre-upload workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Complementary image dimension workflow: https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
 - Complementary Open Graph preview workflow: https://imagesizekit.com/open-graph-preview-checker/
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.3
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.4

@@ -5,7 +5,7 @@ ImageSizeKit Checker Workflows is a public reference asset for ImageSizeKit brow
 Primary Pages URL: https://www.flynnblog.com/imagesizekit-checker-workflows/
 Pages sitemap: https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
-Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.3
+Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.4
 Canonical ImageSizeKit site: https://imagesizekit.com/
 
 ## Canonical ImageSizeKit Routes
@@ -18,6 +18,21 @@ Canonical ImageSizeKit site: https://imagesizekit.com/
 - https://imagesizekit.com/check-social-media-image-size-before-upload/ - Social image pre-upload workflow guide for dimensions, ratio, file size, crop-sensitive surfaces, Open Graph routing, and publish readiness.
 - https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ - Banner size and crop-risk pre-upload workflow guide.
 - https://imagesizekit.com/open-graph-preview-checker/ - Open Graph preview workflow for checking the image file before metadata, crawlability, and platform cache debugging.
+
+## Banner Workflow Search Intents
+
+- how to check banner size before upload -> https://imagesizekit.com/banner-size-checker/
+- banner crop checker -> https://imagesizekit.com/youtube-banner-safe-area/
+- social media banner size before posting -> https://imagesizekit.com/social-media-image-sizes/
+- website banner image size checker -> https://imagesizekit.com/open-graph-preview-checker/
+
+## Banner Workflow P0 Bridge
+
+- Complete banner workflow: https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
+- Browser-local banner checker: https://imagesizekit.com/banner-size-checker/
+- Indexed safe-area guide: https://imagesizekit.com/youtube-banner-safe-area/
+- Cross-platform social image hub: https://imagesizekit.com/social-media-image-sizes/
+- Open Graph exception route: https://imagesizekit.com/open-graph-preview-checker/
 
 ## Repository Docs
 

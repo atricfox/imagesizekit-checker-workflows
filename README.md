@@ -22,6 +22,7 @@ Public Pages landing:
 - https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 - https://www.flynnblog.com/imagesizekit-checker-workflows/robots.txt
 - https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.4
 
 ## Primary Discovery Routes
 
@@ -114,6 +115,13 @@ Useful routes:
 
 A correct banner canvas can still crop badly when text, logos, or calls to action sit too close to an edge.
 
+Search intent routes covered by the public workflow:
+
+- how to check banner size before upload
+- banner crop checker
+- social media banner size before posting
+- website banner image size checker
+
 Check:
 
 1. The final banner export.
@@ -121,6 +129,14 @@ Check:
 3. The closest banner size.
 4. The safe area.
 5. Mobile and desktop crop risk.
+
+P0 bridge routes:
+
+- Complete banner workflow: https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
+- Browser-local banner checker: https://imagesizekit.com/banner-size-checker/
+- Indexed safe-area guide: https://imagesizekit.com/youtube-banner-safe-area/
+- Cross-platform social hub: https://imagesizekit.com/social-media-image-sizes/
+- Open Graph exception route: https://imagesizekit.com/open-graph-preview-checker/
 
 Useful routes:
 
