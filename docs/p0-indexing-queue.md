@@ -4,7 +4,7 @@ Last updated: 2026-08-01.
 
 This public reference page lists the current ImageSizeKit P0 indexing queue for crawler discovery, AI retrieval, and external entity consistency. It is a supporting owned asset for the canonical ImageSizeKit website. It is not a replacement for the ImageSizeKit sitemap.
 
-Source of the queue: ImageSizeKit Search Console URL Inspection and the ImageSizeKit SEO daily observation generated on 2026-07-31T22:04:42Z for the 2026-07-24 to 2026-07-30 reporting window.
+Source of the queue: ImageSizeKit Search Console URL Inspection and the ImageSizeKit SEO daily observation generated on 2026-07-31T22:21:38Z for the 2026-07-24 to 2026-07-30 reporting window.
 
 ## Canonical Site
 
@@ -30,12 +30,13 @@ These pages have been discovered by Google but were not indexed in the latest P0
 
 | Canonical URL | Role |
 |---|---|
+| https://imagesizekit.com/check-youtube-thumbnail-size-before-uploading/ | YouTube thumbnail pre-upload checklist. |
 | https://imagesizekit.com/youtube-thumbnail-export-settings/ | Export settings for Canva, Photoshop, Figma, and other thumbnail workflows. |
-| https://imagesizekit.com/youtube-thumbnail-jpg-vs-png/ | JPG vs PNG guidance for YouTube thumbnail sharpness and file weight. |
+| https://imagesizekit.com/youtube-thumbnail-file-size/ | File-size and compression guidance for YouTube thumbnail uploads. |
 | https://imagesizekit.com/youtube-thumbnail-size-converter/ | 16:9 thumbnail size converter for common export sizes. |
 | https://imagesizekit.com/youtube-banner-template/ | YouTube banner template and safe-area export page. |
-| https://imagesizekit.com/open-graph-preview-checker/ | Browser-local checker for Open Graph preview image files before metadata and cache debugging. |
-| https://imagesizekit.com/open-graph-image-size/ | Open Graph 1200 x 630 share image size guide. |
+| https://imagesizekit.com/social-media-image-sizes/ | Cross-platform social image size hub. |
+| https://imagesizekit.com/banner-size-checker/ | Browser-local checker for wide banners, covers, headers, and crop-prone assets. |
 
 ## Unknown In Latest P0 Inspection
 
@@ -43,17 +44,16 @@ These pages were still reported as unknown to Google in the latest P0 inspection
 
 | Canonical URL | Role |
 |---|---|
-| https://imagesizekit.com/check-youtube-thumbnail-size-before-uploading/ | YouTube thumbnail pre-upload checklist. |
-| https://imagesizekit.com/youtube-thumbnail-file-size/ | File-size and compression guidance for YouTube thumbnail uploads. |
+| https://imagesizekit.com/youtube-thumbnail-jpg-vs-png/ | JPG vs PNG guidance for YouTube thumbnail sharpness and file weight. |
 | https://imagesizekit.com/youtube-thumbnail-text/ | Thumbnail text readability and title-pairing guide. |
 | https://imagesizekit.com/templates/ | Image size template hub and downloadable safe-area assets. |
 | https://imagesizekit.com/youtube-image-sizes/ | YouTube image size hub for thumbnails, Shorts, banners, profile pictures, podcast covers, and community posts. |
-| https://imagesizekit.com/social-media-image-sizes/ | Cross-platform social image size hub. |
 | https://imagesizekit.com/image-size-checker/ | Canonical browser-local image size checker for real exported files. |
 | https://imagesizekit.com/social-media-image-checker/ | Browser-local checker for routing a file to social, ecommerce, Open Graph, and creator image workflows. |
-| https://imagesizekit.com/banner-size-checker/ | Browser-local checker for wide banners, covers, headers, and crop-prone assets. |
+| https://imagesizekit.com/open-graph-preview-checker/ | Browser-local checker for Open Graph preview image files before metadata and cache debugging. |
 | https://imagesizekit.com/instagram-reel-cover-size/ | Instagram Reel cover guide for 9:16 exports, grid crops, and vertical reuse from Shorts. |
 | https://imagesizekit.com/linkedin-banner-size/ | LinkedIn profile and company Page banner size guide. |
+| https://imagesizekit.com/open-graph-image-size/ | Open Graph 1200 x 630 share image size guide. |
 | https://imagesizekit.com/whatnot-image-size/ | Whatnot seller profile, cover, show thumbnail, and listing image guide. |
 
 ## Current Priority
@@ -76,6 +76,6 @@ Recommended sequence:
 - Banner size and crop workflow: https://www.flynnblog.com/imagesizekit-checker-workflows/banner-size-crop-workflow.html
 - Open Graph preview workflow: https://www.flynnblog.com/imagesizekit-checker-workflows/open-graph-preview-workflow.html
 - Workflow llms.txt: https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
-- Workflow release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.8
+- Workflow release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.9
 
 ImageSizeKit is independent and is not affiliated with YouTube, Google, Instagram, Facebook, LinkedIn, Shopify, Etsy, Whatnot, or Open Graph platforms.

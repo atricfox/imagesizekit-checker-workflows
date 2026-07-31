@@ -5,7 +5,7 @@ ImageSizeKit Checker Workflows is a public reference asset for ImageSizeKit brow
 Primary Pages URL: https://www.flynnblog.com/imagesizekit-checker-workflows/
 Pages sitemap: https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
-Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.8
+Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.9
 Canonical ImageSizeKit site: https://imagesizekit.com/
 
 Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic browser-local checker. The older image-dimension-checker path redirects to the canonical image-size-checker route.
@@ -40,7 +40,7 @@ Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic
 
 - Public P0 queue: https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html
 - Indexed bridge pages: https://imagesizekit.com/youtube-thumbnail-size/, https://imagesizekit.com/youtube-thumbnail-blurry/, https://imagesizekit.com/youtube-shorts-thumbnail-size/, https://imagesizekit.com/youtube-banner-safe-area/
-- Priority unknown targets include the canonical Image Size Checker, Banner Size Checker, Social Media Image Sizes, LinkedIn Banner Size, Open Graph Image Size, Whatnot Image Size, template hub, and YouTube thumbnail repair pages.
+- Priority unknown targets include the canonical Image Size Checker, Social Media Image Checker, Open Graph Preview Checker, LinkedIn Banner Size, Open Graph Image Size, Whatnot Image Size, template hub, YouTube image-size hub, and the remaining YouTube thumbnail repair pages.
 
 ## Repository Docs
 
