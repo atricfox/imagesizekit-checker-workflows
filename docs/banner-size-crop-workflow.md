@@ -1,5 +1,7 @@
 # Banner Size And Crop Workflow
 
+Last updated: 2026-07-31.
+
 Use this workflow when a wide image needs to become a profile banner, channel banner, cover photo, website header, or other wide publishing asset.
 
 Primary ImageSizeKit route:
@@ -9,6 +11,12 @@ https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
 Local checker:
 
 https://imagesizekit.com/banner-size-checker/
+
+Related checker routes:
+
+- Image Size Checker: https://imagesizekit.com/image-dimension-checker/
+- Social Media Image Checker: https://imagesizekit.com/social-media-image-checker/
+- Open Graph Preview Checker: https://imagesizekit.com/open-graph-preview-checker/
 
 ## Steps
 
@@ -36,3 +44,13 @@ https://imagesizekit.com/banner-size-checker/
 A banner can match the recommended width and height but still crop badly because important content sits outside the visible area on another device.
 
 Check dimensions first. Then check crop risk.
+
+## Canonical Route Summary
+
+The canonical ImageSizeKit URL for the browser-local banner checker is:
+
+https://imagesizekit.com/banner-size-checker/
+
+The canonical ImageSizeKit URL for the complete workflow guide is:
+
+https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/

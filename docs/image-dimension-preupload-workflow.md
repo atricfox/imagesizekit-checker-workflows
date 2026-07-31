@@ -1,5 +1,7 @@
 # Image Dimension Pre-upload Workflow
 
+Last updated: 2026-07-31.
+
 Use this workflow when you have an exported image file and need to decide where it belongs before publishing.
 
 Primary ImageSizeKit route:
@@ -9,6 +11,12 @@ https://imagesizekit.com/how-to-check-image-dimensions-before-upload/
 Local checker:
 
 https://imagesizekit.com/image-dimension-checker/
+
+Related checker routes:
+
+- Social Media Image Checker: https://imagesizekit.com/social-media-image-checker/
+- Banner Size Checker: https://imagesizekit.com/banner-size-checker/
+- Open Graph Preview Checker: https://imagesizekit.com/open-graph-preview-checker/
 
 ## Steps
 
@@ -34,3 +42,13 @@ https://imagesizekit.com/image-dimension-checker/
 The design canvas says the right size, but the downloaded file has different dimensions. This often happens when an export preset changes scale, a template is resized, a preview image is downloaded instead of the source, or another app compresses the image.
 
 Check the real exported file before the upload screen.
+
+## Canonical Route Summary
+
+The canonical ImageSizeKit URL for the browser-local checker is:
+
+https://imagesizekit.com/image-dimension-checker/
+
+The canonical ImageSizeKit URL for the complete workflow guide is:
+
+https://imagesizekit.com/how-to-check-image-dimensions-before-upload/

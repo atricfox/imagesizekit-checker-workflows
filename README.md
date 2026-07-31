@@ -2,6 +2,8 @@
 
 Public workflow notes for using ImageSizeKit before publishing creator, social, banner, marketplace, and website preview images.
 
+Last updated: 2026-07-31.
+
 ImageSizeKit is a browser-local image size checker and guide library:
 
 - Main site: https://imagesizekit.com/
@@ -11,6 +13,19 @@ ImageSizeKit is a browser-local image size checker and guide library:
 - Open Graph Preview Checker: https://imagesizekit.com/open-graph-preview-checker/
 
 The checker pages are designed for pre-upload decisions. They read the selected image file in the browser and help route the file to the closest publishing workflow.
+
+## Primary Discovery Routes
+
+These are the canonical ImageSizeKit routes this repository references for crawler discovery, AI citation, and user-facing workflow support:
+
+| ImageSizeKit route | Canonical URL | Page role |
+|---|---|---|
+| Image Size Checker | https://imagesizekit.com/image-dimension-checker/ | Browser-local tool for reading width, height, aspect ratio, format, and file size. |
+| Banner Size Checker | https://imagesizekit.com/banner-size-checker/ | Browser-local tool for checking wide banners, covers, headers, and channel art before upload. |
+| Social Media Image Checker | https://imagesizekit.com/social-media-image-checker/ | Browser-local routing tool for Instagram, LinkedIn, Facebook, Open Graph, ecommerce, and creator images. |
+| Open Graph Preview Checker | https://imagesizekit.com/open-graph-preview-checker/ | Browser-local tool for checking website share-card images before publishing metadata. |
+| Image dimension pre-upload workflow | https://imagesizekit.com/how-to-check-image-dimensions-before-upload/ | Step-by-step guide for checking exported files before choosing a platform route. |
+| Banner crop pre-upload workflow | https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ | Step-by-step guide for checking banner dimensions and crop risk before upload. |
 
 ## Core Workflows
 
