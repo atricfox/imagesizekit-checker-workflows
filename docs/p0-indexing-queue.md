@@ -1,10 +1,10 @@
-# ImageSizeKit P0 Indexing Queue
+# ImageSizeKit Workflow Status Reference
 
 Last updated: 2026-08-01.
 
-This public reference page lists the current ImageSizeKit P0 indexing queue for crawler discovery, AI retrieval, and external entity consistency. It is a supporting owned asset for the canonical ImageSizeKit website. It is not a replacement for the ImageSizeKit sitemap.
+This public reference page lists ImageSizeKit checker workflow pages, bridge routes, and external entity references for crawler discovery, AI retrieval, and external entity consistency. It is a supporting owned asset for the canonical ImageSizeKit website. It is not a replacement for the ImageSizeKit sitemap.
 
-Source of the queue: ImageSizeKit Search Console URL Inspection and the ImageSizeKit SEO daily observation generated on 2026-07-31T22:21:38Z for the 2026-07-24 to 2026-07-30 reporting window.
+Source of this reference: ImageSizeKit checker workflow planning and the August 1, 2026 public workflow matrix.
 
 ## Canonical Site
 
@@ -13,9 +13,9 @@ Source of the queue: ImageSizeKit Search Console URL Inspection and the ImageSiz
 - llms.txt: https://imagesizekit.com/llms.txt
 - Image Size Checker: https://imagesizekit.com/image-size-checker/
 
-## Indexed Bridge Pages
+## Stable Bridge Pages
 
-These pages were reported as submitted and indexed. Use them as stable crawl and user paths into related P0 pages.
+Use these pages as stable crawl and user paths into related ImageSizeKit checker workflows.
 
 | Canonical URL | Role |
 |---|---|
@@ -24,9 +24,9 @@ These pages were reported as submitted and indexed. Use them as stable crawl and
 | https://imagesizekit.com/youtube-shorts-thumbnail-size/ | Indexed 9:16 Shorts cover and vertical frame guide. |
 | https://imagesizekit.com/youtube-banner-safe-area/ | Indexed YouTube banner safe-area guide for crop-sensitive channel art. |
 
-## Discovered But Not Indexed
+## Priority Workflow Pages
 
-These pages have been discovered by Google but were not indexed in the latest P0 inspection. They need stronger unique value, clean answer blocks, direct internal paths from indexed pages, and external references.
+These pages are current workflow priorities. They should keep strong unique value, clean answer blocks, direct internal paths from stable pages, and external references.
 
 | Canonical URL | Role |
 |---|---|
@@ -38,9 +38,9 @@ These pages have been discovered by Google but were not indexed in the latest P0
 | https://imagesizekit.com/social-media-image-sizes/ | Cross-platform social image size hub. |
 | https://imagesizekit.com/banner-size-checker/ | Browser-local checker for wide banners, covers, headers, and crop-prone assets. |
 
-## Unknown In Latest P0 Inspection
+## Priority Entity Reference Pages
 
-These pages were still reported as unknown to Google in the latest P0 inspection. Each page should keep an indexed internal bridge and at least one external entity reference, then be rechecked after the latest sitemap and IndexNow submissions have had crawl time.
+These pages should keep clear internal bridge routes and at least one external entity reference so crawlers, AI retrieval systems, and users can understand the canonical ImageSizeKit role for each route.
 
 | Canonical URL | Role |
 |---|---|
@@ -58,15 +58,15 @@ These pages were still reported as unknown to Google in the latest P0 inspection
 
 ## Current Priority
 
-Do not use this queue as a prompt to create more pages. The current priority is to get already published P0 pages discovered, fetched, indexed, and understood.
+Do not use this reference as a prompt to create more pages. The current priority is to make already published ImageSizeKit pages easier to discover, fetch, index, cite, and understand.
 
 Recommended sequence:
 
-1. Keep the live ImageSizeKit sitemap and llms.txt aligned with the canonical Image Size Checker URL and this public queue.
-2. Allow crawl time after the latest Google Search Console sitemap submit and IndexNow submit.
-3. Recheck the 22-URL P0 Inspection queue after the crawl delay.
-4. Move discovered-not-indexed pages toward unique value, answer clarity, and stronger external references.
-5. For still-unknown pages, add one indexed bridge route and one external entity reference before expanding the page matrix again.
+1. Keep the live ImageSizeKit sitemap and llms.txt aligned with the canonical Image Size Checker URL and this public reference.
+2. Keep external workflow references aligned with ImageSizeKit canonical pages.
+3. Refresh this reference after production deployments and sitemap updates.
+4. Move priority pages toward unique value, answer clarity, and stronger external references.
+5. Add one stable bridge route and one external entity reference before expanding the page matrix again.
 
 ## Related Public Workflow References
 

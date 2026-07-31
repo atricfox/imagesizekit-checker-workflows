@@ -50,9 +50,9 @@ Use this public workflow as an external reference for broad banner queries that 
 | Mixed social image with unclear target | https://imagesizekit.com/check-social-media-image-size-before-upload/ |
 | Website preview image instead of a banner | https://imagesizekit.com/open-graph-preview-checker/ |
 
-## P0 Banner Workflow Bridge
+## Banner Workflow Bridge
 
-This document supports the ImageSizeKit P0 banner cluster by linking the broad pre-upload question to the exact checker or guide that resolves the next risk.
+This document supports the ImageSizeKit banner workflow cluster by linking the broad pre-upload question to the exact checker or guide that resolves the next risk.
 
 | Route | Role in the workflow |
 |---|---|

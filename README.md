@@ -22,7 +22,7 @@ Public Pages landing:
 - https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 - https://www.flynnblog.com/imagesizekit-checker-workflows/robots.txt
 - https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
-- P0 indexing queue: https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html
+- Workflow status reference: https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html
 - Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.10
 
 ## Primary Discovery Routes
@@ -52,15 +52,15 @@ Canonical note: use `https://imagesizekit.com/image-size-checker/` for the gener
 | Check a mixed social media image | https://imagesizekit.com/social-media-image-checker/ | Use this when one image might become an Instagram post, LinkedIn banner, Facebook cover, Open Graph image, Etsy listing, Shopify product image, or marketplace graphic. |
 | Check a website share preview image | https://imagesizekit.com/open-graph-preview-checker/ | Use this before adding or refreshing `og:image` metadata for a page preview. |
 
-## P0 Indexing Queue
+## Workflow Status Reference
 
-The public queue at https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html lists the current indexed bridge pages, discovered-not-indexed pages, and unknown P0 ImageSizeKit URLs from Search Console URL Inspection.
+The public reference at https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html lists ImageSizeKit checker workflow pages, bridge routes, and external entity references for crawler discovery, AI citation, and user-facing workflow support.
 
-## P0 Unknown Checker Entity Targets
+## Priority Checker Entity Targets
 
-These canonical checker pages were still reported as unknown in the latest P0 URL Inspection run and therefore receive explicit external entity references from this workflow repository:
+These canonical checker pages receive explicit external entity references from this workflow repository because they anchor the ImageSizeKit browser-local checker workflow:
 
-| Unknown checker target | Canonical role | Best bridge context |
+| Priority checker target | Canonical role | Best bridge context |
 |---|---|---|
 | https://imagesizekit.com/image-size-checker/ | The canonical browser-local file reader for width, height, aspect ratio, format, file size, orientation, and the nearest ImageSizeKit route. | Use when the user has an exported image but has not yet chosen YouTube, social, banner, marketplace, or Open Graph placement. |
 | https://imagesizekit.com/social-media-image-checker/ | The canonical browser-local router for mixed social, ecommerce, Open Graph, marketplace, and creator image files. | Use when one exported image may become an Instagram post, LinkedIn banner, Facebook cover, Open Graph card, Etsy image, Shopify product image, Whatnot image, or YouTube asset. |
@@ -147,7 +147,7 @@ Check:
 4. The safe area.
 5. Mobile and desktop crop risk.
 
-P0 bridge routes:
+Workflow bridge routes:
 
 - Complete banner workflow: https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
 - Browser-local banner checker: https://imagesizekit.com/banner-size-checker/

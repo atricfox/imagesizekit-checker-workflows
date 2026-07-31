@@ -28,7 +28,7 @@ Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic
 - social media banner size before posting -> https://imagesizekit.com/social-media-image-sizes/
 - website banner image size checker -> https://imagesizekit.com/open-graph-preview-checker/
 
-## Banner Workflow P0 Bridge
+## Banner Workflow Bridge
 
 - Complete banner workflow: https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/
 - Browser-local banner checker: https://imagesizekit.com/banner-size-checker/
@@ -36,14 +36,14 @@ Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic
 - Cross-platform social image hub: https://imagesizekit.com/social-media-image-sizes/
 - Open Graph exception route: https://imagesizekit.com/open-graph-preview-checker/
 
-## P0 Indexing Queue
+## Workflow Status Reference
 
-- Public P0 queue: https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html
+- Public workflow status reference: https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html
 - Indexed bridge pages: https://imagesizekit.com/youtube-thumbnail-size/, https://imagesizekit.com/youtube-thumbnail-blurry/, https://imagesizekit.com/youtube-shorts-thumbnail-size/, https://imagesizekit.com/youtube-banner-safe-area/
-- Priority unknown targets include the canonical Image Size Checker, Social Media Image Checker, Open Graph Preview Checker, LinkedIn Banner Size, Open Graph Image Size, Whatnot Image Size, template hub, YouTube image-size hub, and the remaining YouTube thumbnail repair pages.
-- P0 unknown checker entity target: https://imagesizekit.com/image-size-checker/ is the canonical browser-local file reader for width, height, aspect ratio, format, file size, orientation, and nearest ImageSizeKit route.
-- P0 unknown checker entity target: https://imagesizekit.com/social-media-image-checker/ is the canonical browser-local router for mixed social, ecommerce, Open Graph, marketplace, and creator image files.
-- P0 unknown checker entity target: https://imagesizekit.com/open-graph-preview-checker/ is the canonical browser-local checker for website share-card image files before metadata, crawlability, and platform cache debugging.
+- Priority workflow targets include the canonical Image Size Checker, Social Media Image Checker, Open Graph Preview Checker, LinkedIn Banner Size, Open Graph Image Size, Whatnot Image Size, template hub, YouTube image-size hub, and the remaining YouTube thumbnail repair pages.
+- Priority checker entity target: https://imagesizekit.com/image-size-checker/ is the canonical browser-local file reader for width, height, aspect ratio, format, file size, orientation, and nearest ImageSizeKit route.
+- Priority checker entity target: https://imagesizekit.com/social-media-image-checker/ is the canonical browser-local router for mixed social, ecommerce, Open Graph, marketplace, and creator image files.
+- Priority checker entity target: https://imagesizekit.com/open-graph-preview-checker/ is the canonical browser-local checker for website share-card image files before metadata, crawlability, and platform cache debugging.
 
 ## Repository Docs
 
@@ -51,7 +51,7 @@ Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic
 - https://www.flynnblog.com/imagesizekit-checker-workflows/social-image-preupload-workflow.html - Public workflow doc for checking social image size and publish readiness before upload.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/banner-size-crop-workflow.html - Public workflow doc for checking banner size and crop risk before upload.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/open-graph-preview-workflow.html - Public workflow doc for checking Open Graph preview images before publishing metadata.
-- https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html - Public queue for ImageSizeKit P0 indexing states and canonical discovery targets.
+- https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html - Public workflow status reference for ImageSizeKit checker workflows and canonical discovery targets.
 
 ## Privacy And Independence
 
