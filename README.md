@@ -10,6 +10,7 @@ ImageSizeKit is a browser-local image size checker and guide library:
 - Image Size Checker: https://imagesizekit.com/image-size-checker/
 - Banner Size Checker: https://imagesizekit.com/banner-size-checker/
 - Social Media Image Checker: https://imagesizekit.com/social-media-image-checker/
+- Instagram Reel Cover Size: https://imagesizekit.com/instagram-reel-cover-size/
 - Open Graph Preview Checker: https://imagesizekit.com/open-graph-preview-checker/
 - Social Image Pre-upload Workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Open Graph Preview Workflow: https://imagesizekit.com/open-graph-preview-checker/
@@ -36,6 +37,7 @@ Canonical note: use `https://imagesizekit.com/image-size-checker/` for the gener
 | Image Size Checker | https://imagesizekit.com/image-size-checker/ | Browser-local tool for reading width, height, aspect ratio, format, and file size. |
 | Banner Size Checker | https://imagesizekit.com/banner-size-checker/ | Browser-local tool for checking wide banners, covers, headers, and channel art before upload. |
 | Social Media Image Checker | https://imagesizekit.com/social-media-image-checker/ | Browser-local routing tool for Instagram, LinkedIn, Facebook, Open Graph, ecommerce, and creator images. |
+| Instagram Reel cover workflow | https://imagesizekit.com/instagram-reel-cover-size/ | 9:16 Reel cover workflow for grid crop checks and short-video thumbnail reuse. |
 | Open Graph Preview Checker | https://imagesizekit.com/open-graph-preview-checker/ | Browser-local tool for checking website share-card images before publishing metadata. |
 | Open Graph image size workflow | https://imagesizekit.com/open-graph-image-size/ | Size reference for 1200 x 630 and 1.91:1 website share-card images. |
 | Image dimension pre-upload workflow | https://imagesizekit.com/how-to-check-image-dimensions-before-upload/ | Step-by-step guide for checking exported files before choosing a platform route. |
@@ -53,6 +55,7 @@ Canonical note: use `https://imagesizekit.com/image-size-checker/` for the gener
 | Check a social image before publishing | https://imagesizekit.com/check-social-media-image-size-before-upload/ | Use this when an image may become an Instagram, Facebook, LinkedIn, Open Graph, ecommerce, or creator asset and needs a final publish gate. |
 | Check banner size and crop risk | https://imagesizekit.com/how-to-check-banner-size-and-crop-before-upload/ | Use this when a wide header, cover, channel art, or profile banner might crop text or logos after upload. |
 | Check a mixed social media image | https://imagesizekit.com/social-media-image-checker/ | Use this when one image might become an Instagram post, LinkedIn banner, Facebook cover, Open Graph image, Etsy listing, Shopify product image, or marketplace graphic. |
+| Check an Instagram Reel cover | https://imagesizekit.com/instagram-reel-cover-size/ | Use this when a vertical cover needs 9:16 export checks and profile grid crop safety. |
 | Confirm Open Graph image size | https://imagesizekit.com/open-graph-image-size/ | Use this when a website share card needs a 1200 x 630 or 1.91:1 image before metadata debugging. |
 | Check a website share preview image | https://imagesizekit.com/open-graph-preview-checker/ | Use this before adding or refreshing `og:image` metadata for a page preview. |
 | Convert a YouTube thumbnail size | https://imagesizekit.com/youtube-thumbnail-size-converter/ | Use this when a thumbnail needs a 16:9 export size such as 1280 x 720, 1920 x 1080, or 3840 x 2160. |
@@ -110,6 +113,7 @@ Useful routes:
 
 - Full workflow: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Social media checker workflow: https://www.flynnblog.com/imagesizekit-checker-workflows/social-media-image-checker-workflow.html
+- Instagram Reel cover workflow: https://www.flynnblog.com/imagesizekit-checker-workflows/instagram-reel-cover-workflow.html
 - Social media image checker: https://imagesizekit.com/social-media-image-checker/
 - Social media image sizes hub: https://imagesizekit.com/social-media-image-sizes/
 - Open Graph image size: https://imagesizekit.com/open-graph-image-size/
@@ -207,6 +211,7 @@ Useful routes:
 
 - Full workflow: https://www.flynnblog.com/imagesizekit-checker-workflows/youtube-thumbnail-repair-workflow.html
 - Thumbnail pre-upload checklist: https://imagesizekit.com/check-youtube-thumbnail-size-before-uploading/
+- Thumbnail file-size guide: https://imagesizekit.com/youtube-thumbnail-file-size/
 - JPG vs PNG thumbnail guide: https://imagesizekit.com/youtube-thumbnail-jpg-vs-png/
 - Thumbnail text guide: https://imagesizekit.com/youtube-thumbnail-text/
 - YouTube image sizes hub: https://imagesizekit.com/youtube-image-sizes/
