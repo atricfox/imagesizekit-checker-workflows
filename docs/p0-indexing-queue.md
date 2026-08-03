@@ -1,6 +1,6 @@
 # ImageSizeKit Workflow Status Reference
 
-Last updated: 2026-08-01.
+Last updated: 2026-08-04.
 
 This public reference page lists ImageSizeKit checker workflow pages, bridge routes, and external entity references for crawler discovery, AI retrieval, and external entity consistency. It is a supporting owned asset for the canonical ImageSizeKit website. It is not a replacement for the ImageSizeKit sitemap.
 
@@ -71,6 +71,7 @@ Recommended sequence:
 ## Related Public Workflow References
 
 - Workflow landing: https://www.flynnblog.com/imagesizekit-checker-workflows/
+- Core checker route map: https://www.flynnblog.com/imagesizekit-checker-workflows/core-checker-route-map.html
 - Image dimension pre-upload workflow: https://www.flynnblog.com/imagesizekit-checker-workflows/image-dimension-preupload-workflow.html
 - Social image pre-upload workflow: https://www.flynnblog.com/imagesizekit-checker-workflows/social-image-preupload-workflow.html
 - Banner size and crop workflow: https://www.flynnblog.com/imagesizekit-checker-workflows/banner-size-crop-workflow.html

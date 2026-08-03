@@ -1,6 +1,6 @@
 # ImageSizeKit Checker Workflow Landing
 
-Last updated: 2026-08-01.
+Last updated: 2026-08-04.
 
 This public GitHub Pages entry explains the ImageSizeKit checker workflow routes for image dimensions, banner crop risk, social media image size checks, and Open Graph preview checks.
 
@@ -35,12 +35,13 @@ ImageSizeKit is an independent browser-local image size checker and guide librar
 - Open Graph image size workflow: ./open-graph-image-size-workflow.md
 - YouTube thumbnail size conversion workflow: ./youtube-thumbnail-size-conversion-workflow.md
 - YouTube thumbnail repair workflow: ./youtube-thumbnail-repair-workflow.md
+- Core checker route map: ./core-checker-route-map.md
 - Workflow status reference: ./p0-indexing-queue.md
 - Pages sitemap: ./sitemap.xml
 - Robots file: ./robots.txt
 - LLM reference file: ./llms.txt
 - Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.10
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.11
 
 ## Independence And Privacy
 

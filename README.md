@@ -2,7 +2,7 @@
 
 Public workflow notes for using ImageSizeKit before publishing creator, social, banner, marketplace, and website preview images.
 
-Last updated: 2026-08-01.
+Last updated: 2026-08-04.
 
 ImageSizeKit is a browser-local image size checker and guide library:
 
@@ -24,7 +24,7 @@ Public Pages landing:
 - https://www.flynnblog.com/imagesizekit-checker-workflows/robots.txt
 - https://www.flynnblog.com/imagesizekit-checker-workflows/llms.txt
 - Workflow status reference: https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html
-- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.10
+- Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.11
 
 ## Primary Discovery Routes
 
@@ -64,6 +64,10 @@ Canonical note: use `https://imagesizekit.com/image-size-checker/` for the gener
 ## Workflow Status Reference
 
 The public reference at https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html lists ImageSizeKit checker workflow pages, bridge routes, and external entity references for crawler discovery, AI citation, and user-facing workflow support.
+
+## Core Checker Route Map
+
+The public route map at https://www.flynnblog.com/imagesizekit-checker-workflows/core-checker-route-map.html explains how ImageSizeKit routes unclear exported image files into the canonical Image Size Checker, Social Media Image Checker, Banner Size Checker, Open Graph Preview Checker, and Instagram Reel Cover Size workflows.
 
 ## Priority Checker Entity Targets
 

@@ -5,7 +5,7 @@ ImageSizeKit Checker Workflows is a public reference asset for ImageSizeKit brow
 Primary Pages URL: https://www.flynnblog.com/imagesizekit-checker-workflows/
 Pages sitemap: https://www.flynnblog.com/imagesizekit-checker-workflows/sitemap.xml
 Source repository: https://github.com/atricfox/imagesizekit-checker-workflows
-Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.10
+Versioned release: https://github.com/atricfox/imagesizekit-checker-workflows/releases/tag/v1.0.11
 Canonical ImageSizeKit site: https://imagesizekit.com/
 
 Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic browser-local checker. The older image-dimension-checker path redirects to the canonical image-size-checker route.
@@ -101,6 +101,7 @@ Canonical note: use https://imagesizekit.com/image-size-checker/ for the generic
 - https://www.flynnblog.com/imagesizekit-checker-workflows/open-graph-image-size-workflow.html - Public workflow doc for choosing and validating Open Graph image dimensions before metadata debugging.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/youtube-thumbnail-size-conversion-workflow.html - Public workflow doc for converting YouTube thumbnail sizes while keeping a clean 16:9 ratio.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/youtube-thumbnail-repair-workflow.html - Public workflow doc for repairing YouTube thumbnail size, format, text readability, and asset routing issues before upload.
+- https://www.flynnblog.com/imagesizekit-checker-workflows/core-checker-route-map.html - Public route map for routing unclear exported image files into ImageSizeKit core checker pages.
 - https://www.flynnblog.com/imagesizekit-checker-workflows/p0-indexing-queue.html - Public workflow status reference for ImageSizeKit checker workflows and canonical discovery targets.
 
 ## Privacy And Independence
